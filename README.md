@@ -1,6 +1,6 @@
 # Paris Konut Fiyatları Tahmini: Bir Lineer Regresyon Modelinin Performansı
 ## Giriş
-Bu çalışmada, Paris'teki konut fiyatlarını tahmin etmek için bir lineer regresyon modeli geliştirdik. Modelimiz, farklı özelliklerin (metrekare, oda sayısı, bahçe veya havuz varlığı gibi) konut fiyatlarını etkilediğini öngörerek çalışıyor.
+Bu çalışmada, Paris'teki konut fiyatlarını tahmin etmek için bir lineer regresyon modeli geliştirdim. Modelim, farklı özelliklerin (metrekare, oda sayısı, bahçe veya havuz varlığı gibi) konut fiyatlarını etkilediğini öngörerek çalışıyor.
 
 # Veri Seti
 Kullandığımız veri seti, konutlarla ilgili çeşitli özellikleri içeriyor. Toplamda 17 sütun bulunmaktadır:
